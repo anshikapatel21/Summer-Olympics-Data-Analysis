@@ -3,6 +3,6 @@
 
 In this, I have done analysis of summer olympics data during the AI/ML Internship.
 
-I have solved few questions as asked in the assignment of analysis.
+I have solved few questions as described in the code(.ipynb) file.
 
 I have created graphs of the top-5 data.
